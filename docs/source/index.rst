@@ -11,8 +11,12 @@ Another simple header
 
 Here is some code
 
-   print 'Hello world'
-   >> Hello world
+   `print 'Hello world'
+   >> Hello world`
+
+| These lines are
+| broken exactly like in
+| the source file.
 
 Guide
 ^^^^^ 
